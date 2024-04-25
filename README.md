@@ -1,5 +1,5 @@
 # pyrtree
-An R-Tree implementation
+A fork that adds 3D compatibility to the R-Tree implementation "Pyrtree" by Rhoana (https://github.com/Rhoana/pyrtree).
 
 Taken from https://code.google.com/archive/p/pyrtree/source/default/source
 (No way to automatically move the versioned source code from code.google.com, so this is copied)
